@@ -1,0 +1,7 @@
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\bin\Debug\ÖğrenciNotTakipUygulaması(ödev3).exe.config
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\bin\Debug\ÖğrenciNotTakipUygulaması(ödev3).exe
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\bin\Debug\ÖğrenciNotTakipUygulaması(ödev3).pdb
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\obj\Debug\ÖğrenciNotTakipUygulaması(ödev3).csproj.AssemblyReference.cache
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\obj\Debug\ÖğrenciNotTakipUygulaması(ödev3).csproj.CoreCompileInputs.cache
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\obj\Debug\ÖğrenciNotTakipUygulaması(ödev3).exe
+C:\Users\bekir\source\repos\ÖğrenciNotTakipUygulaması(ödev3)\ÖğrenciNotTakipUygulaması(ödev3)\obj\Debug\ÖğrenciNotTakipUygulaması(ödev3).pdb
